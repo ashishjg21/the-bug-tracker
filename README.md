@@ -1,10 +1,7 @@
 <!-- INTRO SECTION -->
 <br />
 <p align="center">
-  <a href="https://github.com/Jenil-Vekaria/Trackit">
-    <img src="client/src/assets/Trackit_Background.png" alt="Trackit">
-  </a>
-
+  
   <h3 align="center">Issue and Project Tracking System</h3>
 
   <p align="center">
@@ -50,10 +47,6 @@ Download: [Node.js - 18.14.0](https://nodejs.org/en/)
 ### Step 2: Clone the repo
 
 Fork the repository then clone it locally by doing
-
-```sh
-git clone https://github.com/Jenil-Vekaria/Trackit.git
-```
 
 ### Step 2: Install Dependencies
 
@@ -199,8 +192,4 @@ nodemon server.js
   <img src="./screenshots/admin_create_ticket_types.png"/>
 </div>
 
-## Author
 
-- Github: [@Jenil-Vekara](https://github.com/Jenil-Vekaria)
-- Portfolio: [Jenil-Vekaria.netlify.app](https://jenil-vekaria.netlify.app/)
-- LinkedIn: [@JenilVekaria](https://www.linkedin.com/in/jenilvekaria/)
